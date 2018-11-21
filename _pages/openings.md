@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "Yu Lab - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
@@ -8,28 +8,39 @@ permalink: /vacancies
 
 # Open positions
 
-We are always looking for new group members with passion, talent, and grit!
+The Institute is looking for talented and intelligent people of high integrity who exemplify the values of the Institute--that is, those who are sincere and dependable and who strive for excellence in all they do. We provide a work environment that respects the dignity of every individual and encourages collaboration, teamwork, creativity and innovation. Our founders, Jim and Virginia Stowers, envisioned creating one of the most innovative and effective medical research organizations in the world. This vision can only be achieved if we attract the very best people.
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+Join the Yu Lab at Stowers Institute for Medical Research!
 
 ### Current open positions
 
-You find the current job openings here:
-[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
-[Opening 2]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf).
+#### Laboratory Assistant
 
-It might be interesting to look at some past job advertisements. While the projects keep changing, the themes are still roughly the same. You can download them [here]({{ site.baseurl }}/downloads/PD.pdf), [here]({{ site.baseurl }}/downloads/PHD1.pdf), or [here]({{ site.baseurl }}/downloads/PHD2.pdf).
+The Stowers Institute for Medical Research has an opening for a Laboratory Assistant in the Yu Lab. The chosen candidate will assist the lab with organization, basic laboratory techniques, and performing other assigned tasks. Qualified candidates will participate in research projects assisting graduate students, postdoctoral research and senior scientists in performing experiments. The position offers the opportunity to participate in one or more of the following types of studies: molecular and cell biology, histology, data analyses, and/or developmental biology. 
 
-### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
+The successful candidate will be self-motivated; have excellent written and verbal communication skills; and the ability to effectively work in a team-oriented and multicultural environment.
 
-There are  postdoc scholarship available.  I'd be happy to support you after you apply to our group. Take a look at the [veni fellowship](http://www.nwo.nl/en/funding/our-funding-instruments/nwo/innovational-research-incentives-scheme/veni/index.html) or the [Marie Curie fellowship](http://ec.europa.eu/research/mariecurieactions/about-msca/actions/if/index_en.htm).
+Minimum requirements include a high school diploma and some college coursework. The candidate should have a general science background with emphasis on chemistry, life science and other related sciences, or have a computer programming background. Candidates currently pursuing or have graduated with their degree in a science-related discipline are encouraged to apply.
 
-### Master projects for Leiden University students
-If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
+*Application Instructions:* To apply, please submit a current resume and 2 letters of professional reference to careers@stowers.org or to Administration Department, Stowers Institute for Medical Research, 1000 E 50th Street, Kansas City, MO 64110.
 
-### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
+#### Postdoctoral Research Associate
+##### Developmental Neurobiology and Neural Circuit Studies
+
+The Stowers Institute for Medical Research has an opening for a Postdoctoral Researcher to address developmental neurobiology and neural circuit studies. The chosen candidate will participate in research in one or more of the following areas: the molecular mechanism of neural circuit specification, the development and plasticity of neural circuitry, and mapping of neural circuitry involved in specific behaviors. The lab employs a combination of methodologies including molecular genetics, single cell sequencing, fluorescent whole-brain imaging, optogenetic, chemicogenetic and behavioral techniques. More details, including selected publications, can be found at /labs/yulab.asp.
+
+The candidate will enjoy intramural research support from the Stowers Institute with strong support from core facilities that provide advice, training and service to enhance the Institute's interdisciplinary and collaborative research programs. Current core facilities are staffed by over 100 scientists with expertise in bioinformatics, cytometry, histology, imaging, microarray, next generation sequencing, transgenic and ES cell technologies, proteomics and molecular biology. The Stowers Institute offers a highly competitive compensation and benefits package.
+
+Minimum requirements include a doctoral degree in the life sciences, chemistry, or biomedical engineering. Experience in one or more of the following areas is desirable but not required: molecular biology, developmental neuroscience, genetics, immunology, electrophysiology, and imaging.
+
+In addition to excellent verbal and written communication skills, successful candidates must be highly motivated, work independently and creatively, committed to a scientific career, ability to work in a team-oriented environment, and proficient at problem solving.
+
+*Application Instructions:* To apply, please submit (1) a brief cover letter, (2) a current CV, and (3) 2 letters of professional reference to Dr. Ron Yu at yulab@stowers.org cc: careers@stowers.org.
+
+
+### Summer scholars
+
+Every summer the Yu Lab takes on 2-4 summer scholars.
 
 
 <figure>

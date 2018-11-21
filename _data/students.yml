@@ -1,16 +1,39 @@
-#- name:
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
-
-- name: Corne Koks
-  photo: rock.jpg
-  info: Master student
-  email: -@Physics.LeidenUniv.nl
-  number_educ: 0
+- name: Wenjing Xu
+  photo: wenjing_xu.jpg
+  info: PhD student, Open University
+  email: wxu@stowers.org
+  number_educ: 3
   education1:
+  education2:
+  education3:
+  education4:
+
+- name: Rishabh Raj
+  photo: rishabh_raj.jpg
+  info: PhD student, Open University
+  email: rraj@stowers.org
+  number_educ: 3
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: Kyle Duyck
+  photo: kyle_duyck.jpg
+  info: PhD student, Open University
+  email: kduyck@stowers.org
+  number_educ: 2
+  education1: B.Sc., Oregon State University, Corvallis
+  education2: M.Sc., Biology University of Oregon, Eugene
+  education3:
+  education4:
+
+- name: Rahul Garg
+  photo: rahul_garg.jpg
+  info: PhD student, Stowers Graduate School
+  email: rgarg@stowers.org
+  number_educ: 2
+  education1:
+  education2:
+  education3:
+  education4:
