@@ -24,8 +24,10 @@ Minimum requirements include a high school diploma and some college coursework. 
 
 *Application Instructions:* To apply, please submit a current resume and 2 letters of professional reference to careers@stowers.org or to Administration Department, Stowers Institute for Medical Research, 1000 E 50th Street, Kansas City, MO 64110.
 
+---
+
 #### Postdoctoral Research Associate
-##### Developmental Neurobiology and Neural Circuit Studies
+*Developmental Neurobiology and Neural Circuit Studies*
 
 The Stowers Institute for Medical Research has an opening for a Postdoctoral Researcher to address developmental neurobiology and neural circuit studies. The chosen candidate will participate in research in one or more of the following areas: the molecular mechanism of neural circuit specification, the development and plasticity of neural circuitry, and mapping of neural circuitry involved in specific behaviors. The lab employs a combination of methodologies including molecular genetics, single cell sequencing, fluorescent whole-brain imaging, optogenetic, chemicogenetic and behavioral techniques. More details, including selected publications, can be found at /labs/yulab.asp.
 
@@ -37,6 +39,7 @@ In addition to excellent verbal and written communication skills, successful can
 
 *Application Instructions:* To apply, please submit (1) a brief cover letter, (2) a current CV, and (3) 2 letters of professional reference to Dr. Ron Yu at yulab@stowers.org cc: careers@stowers.org.
 
+---
 
 ### Summer scholars
 

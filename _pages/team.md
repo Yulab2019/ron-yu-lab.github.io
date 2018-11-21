@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "Yu Lab - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Yu Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
@@ -89,6 +89,7 @@ Jump to [staff](#staff), [masters and interns](#masters-and-interns), [alumni](#
 {% endif %}
 
 <div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
@@ -113,6 +114,14 @@ Jump to [staff](#staff), [masters and interns](#masters-and-interns), [alumni](#
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 5 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  <li> {{ member.education5 }} </li>
   {% endif %}
 
   </ul>
@@ -142,6 +151,7 @@ Jump to [staff](#staff), [masters and interns](#masters-and-interns), [alumni](#
 {% endif %}
 
 <div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
@@ -166,6 +176,14 @@ Jump to [staff](#staff), [masters and interns](#masters-and-interns), [alumni](#
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 5 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  <li> {{ member.education5 }} </li>
   {% endif %}
 
   </ul>
@@ -185,6 +203,7 @@ Jump to [staff](#staff), [masters and interns](#masters-and-interns), [alumni](#
 {% endif %}
 
 ## Visiting fellows
+
 {% assign number_printed = 0 %}
 {% for member in site.data.fellows %}
 
@@ -195,6 +214,7 @@ Jump to [staff](#staff), [masters and interns](#masters-and-interns), [alumni](#
 {% endif %}
 
 <div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
@@ -221,6 +241,14 @@ Jump to [staff](#staff), [masters and interns](#masters-and-interns), [alumni](#
   <li> {{ member.education4 }} </li>
   {% endif %}
 
+  {% if member.number_educ == 5 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  <li> {{ member.education5 }} </li>
+  {% endif %}
+
   </ul>
 </div>
 
@@ -236,7 +264,6 @@ Jump to [staff](#staff), [masters and interns](#masters-and-interns), [alumni](#
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
 
 ## Alumni
 
