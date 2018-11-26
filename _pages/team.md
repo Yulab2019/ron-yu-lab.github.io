@@ -301,51 +301,125 @@ Jump to [staff](#staff), [masters and interns](#masters-and-interns), [alumni](#
 
 <table align="center" style="width:100%">
  <tr>
-    <th>Visitors</th>
-    <th>Master Students</th>
-    <th>Bachelor Students</th>
+    <th>Postdoctoral Research Associate </th>
+    <th>Research Technicians</th>
+    <th>Graduate Researchers</th>
   </tr>
   <tr>
-    <td>Nikolaos Iliopoulos, Spring 2016</td>
-    <td>Bert Visscher, Fall 2017</td>
-    <td>Vishnu Saj, Spring 2017</td>
+    <td>Jie He, 2005–2010</td>
+    <td>Evan Gillespie, 2005–2007</td>
+    <td>Vasha DuTell, 2013–2015</td>
   </tr>
   <tr>
-    <td>Vitaly Fedoseev, all of 2016</td>
-    <td>Ahmad Jamalzada, Fall 2017</td>
-    <td>Joey Braspenning, Spring 2017</td>
+    <td>Oxana Litvine, 2005–2007</td>
+    <td>Peniel Zelalem, 2006–2007</td>
+    <td>Dar Dahlen, 2013–2015</td>
   </tr>
   <tr>
-    <td>Ramakrishna Aluru, Summer 2018</td>
-    <td>Tjerk Benschop, Summer 2017</td>
-    <td>Margot Leemker, Spring 2017</td>
+    <td>SangSeong Kim, 2007–2012</td>
+    <td>Arian Abdulla, 2007–2008</td>
+    <td>Jason Catalico, 2016–2017</td>
+  </tr>
+  <tr>
+    <td>Zhuoming Li, 2007–2011</td>
+    <td>Nirjal Sapkota, 2007–2008</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Sachiko Haga-Yamanaka, 2010–2014</td>
+    <td>Aaron Scott, 2008–2009</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Elden Yu, 2010–2011</td>
+    <td>Justin Ryder, 2010–2011</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Zhenhua Gui, 2010–2011</td>
+    <td>Kristin Jensen, 2010–2011</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Zulin Yu, 2010–2011</td>
+    <td>Ian Smith, 2011–2012</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Lakshmi Chandrashaka, 2011–2014</td>
+    <td>Amurta Nath, 2012–2013</td>
+    <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>Oliver Ostojic, Spring 2016</td>
-    <td>Sietske Lensen, Spring 2017</td>
+    <td>Daniel Lee, 2011–2013</td>
+    <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>Farshaad Hoeseni, Fall 2015</td>
-    <td>Alexander Vanstone, Spring 2016</td>
+    <td>Daniel Friedman, 2014–2015</td>
+    <td></td>
+  </tr>
+
+</table>
+
+<table align="center" style="width:100%">
+  <tr>
+    <th>Undergraduate Students</th>
+  </tr>
+  <tr>
+    <td>2005 – Stowers Scholar: Emily Abdoler</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td>Tjerk Benschop, Spring 2016</td>
+    <td>2006 – Stowers Scholar: Stefani Fontana & Sutton Ansley</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td>Arjo Andringa, Spring 2016</td>
+    <td>2007 – Stowers Scholar: Stephen Gradwohl</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td>Daniëlle van Klink, Spring 2016</td>
+    <td>2008 – Stowers Scholar: Justin Ryder & Jing Hu</td>
+  </tr>
+  <tr>
+    <td>2009 – Stowers Scholar: Megan Fracol & Andrew Satterlee, Lingxue Zhang & Katharina Grauel </td>
+  </tr>
+  <tr>
+    <td>2010 – Lingxue Zhang & Xinyun Peng, Internship</td>
+  </tr>
+  <tr>
+    <td>2010 – Stowers Scholar: Megan Fracol, Andrew Satterlee, & Roman Becicka, Shan Shen & Tao Wang</td>
+  </tr>
+  <tr>
+    <td>2011 – Stowers Scholar: Colleen McLaughlin, Vivekanandan Ramalingam, Amurta Nath, Wanlu Liu, Yilin Li, Yunming Wu & Martula Kolodziejczek </td>
+  </tr>
+  <tr>
+    <td>2012 – Stowers Scholar: Matthew Bruce, Megan Hoffman, Nimish Mittal, Daniel Friedman, Yin (Jerry) Yue, Sri Karthika Shanmugam, Karthikeyan Murugesan & Zheng (Cindy) Xing</td>
+  </tr>
+  <tr>
+    <td>2013 – Stowers Scholars: Rishabh Raj, Zita Hubler, Laura Nay and Florian Bilz</td>
   </tr>
 </table>
+
+<table align="center" style="width:100%">
+  <tr>
+    <th>Interns</th>
+  </tr>
+  <tr>
+    <td>2014 – Stowers Scholar: Sruti Raja, Wenjing Xu</td>
+  </tr>
+  <tr>
+    <td>2015 – Stowers Scholar: Mohamed Eltabbal; Intern: Clara Ma; St. Luke Hostpital Interns: Tyler Jost, Madison McCulloch, John Shook</td>
+  </tr>
+  <tr>
+    <td>2016 – Stowers Scholar:	Ruohan Zhong, Grace Li-Haug, Sam Dore; Shashank Chepurwar; Paris VII intern: Malalaniaina Rakotobe</td>
+  </tr>
+  <tr>
+    <td>2017 – Stowers Scholar:	Kevin Li, Renny Ma, Tyler Jost; Paris VII intern: Ronael Yablanka</td>
+  </tr>
+  <tr>
+    <td>2018 – Stowers Scholar:	Kevin Li, Sandon Scott, Edwin Qiu, Yiyang “Reus” Zhu; Paris VII intern: Clarisse Dumont</td>
+  </tr>
+</table>
+
 
 ## Administrative Support
 <a href="mailto:iwarren@stowers.org">Indigo Warren</a> is helping us (and other groups) with administration.
