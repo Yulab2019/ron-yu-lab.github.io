@@ -4,27 +4,26 @@
   photo: ron.jpg
   info: Pricipal Invesitigator
   email: cry@stowers.org
-  number_educ: 4
-  education1: B.Sc., Solid State Physics Tsinghua University, Beijing, China
-  education2: B.Sc., Biological Sciences and Biotechnology Tsinghua University, Beijing, China
+  number_educ: 3
+  education1: B.Sc. Solid State Physics, Tsinghua University, Beijing, China
+  education2: B.Sc. Biological Sciences and Biotechnology, Tsinghua University, Beijing, China
   education3: Ph.D., M.Ph., M.Sc., Molecular, Cellular and Biophysical Studies Columbia University
-  education4: Ph.D. mentor, Dr. Richard Axel
   
 - name: Limei Ma
   photo: limei_ma.jpg
   info: Research Scientist
   email: lim@stowers.org
   number_educ: 2
-  education1:
-  education2: Ph.D., Immunology University of Illinois-Chicago
+  education1: B.Sc. Biology, Peking University, Beijing, China
+  education2: Ph.D. Immunology, University of Illinois-Chicago
   
 - name: Qiang Qiu
   photo: qiang_qiu.jpg
   info: Research Specialist I
   email: qiq@stowers.org
   number_educ: 2
-  education1: B.Sc., Solid State Physics Tsinghua University, Beijing, China
-  education2: Ph.D., Biophysics Institute of Biophysics Chinese Academy of Sciences, Beijing, China
+  education1: B.Sc. Solid State Physics, Tsinghua University, Beijing, China
+  education2: Ph.D. Biophysics, Institute of Biophysics Chinese Academy of Sciences, Beijing, China
   
 - name: Yunming Wu
   photo: yunming_wu.jpg
@@ -32,7 +31,7 @@
   email: ygw@stowers.org
   number_educ: 2
   education1:
-  education2:
+  education2: Ph.D. Biology, Open University, Milton Keynes, England
   
 - name: Michael Hirte
   photo: michael_hirte.jpg
@@ -40,12 +39,20 @@
   email: mhi@stowers.org
   number_educ: 2
   education1:
-  education2: M.Sc., Optics University of Oregon, Eugene
+  education2: M.Sc. Physics, University of Oregon
+
+- name: Carter Long
+  photo: carter_long.jpg
+  info: Bioinformaticist
+  email: clong@stowers.org
+  number_educ: 2
+  education1: B.Sc. Cellular & Molecular Biology, Humboldt State University
+  education2: M.Sc. Biology, University of Oregon
   
 - name: Peter Schwarz
   photo: peter_schwarz.jpg
   info: Microscopist
   email: pschwarz@stowers.org
   number_educ: 2
-  education1: B.Sc., University of Portland
-  education2: M.Sc., Optics University of Oregon, Eugene
+  education1: B.Sc. University of Portland
+  education2: M.Sc. Physics University of Oregon

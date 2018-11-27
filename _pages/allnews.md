@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Yu Lab at Leiden University."
+excerpt: "Yu Lab at Stowers Institute."
 sitemap: false
 permalink: /allnews.html
 ---

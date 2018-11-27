@@ -43,9 +43,12 @@ In addition to excellent verbal and written communication skills, successful can
 
 ### Summer scholars
 
-Every summer the Yu Lab takes on 2-4 summer scholars.
+![]({{ site.url }}{{ site.baseurl }}/images/picpic/summer_scholars_2018.jpg){: style="width: 30%; float: right; border: 10px"}
 
+Each student participating in the Stowers Summer Scholars Program works on an independent research project under the direction of a principal investigator. The program offers Stowers Scholars the opportunity to become immersed in a research topic for a full-time eight-week period. Topics include chromatin and regulation of gene expression; chromosome structure and cell division; computational biology, modeling and technology; developmental genetics and cell biology; developmental neuroscience; and stem cells and regeneration.
 
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
+Scholars have opportunities to interact and collaborate with other members of their laboratory and the Stowers community as a whole. In this way, Scholars experience not only the intellectual but also the collaborative spirit of research. In addition, Scholars have the opportunity to familiarize themselves with the latest techniques in laboratories and supporting core centers, which are equipped with the most advanced technology.
+
+The Stowers Summer Scholars Program requires an eight-week commitment during the summer. Stowers Scholars spend the majority of their time in the laboratory. There they work on a research project while receiving guidance and supervision from the laboratory head or a senior member of the lab. All Scholars are required to attend weekly scientific seminars on an array of research topics. Other activities include a weekly lunch where Scholars can share ideas and discuss individual projects and experiments. At the completion of the program, Scholars present their work in an All-Institute poster session.
+
+[More information here](https://www.stowers.org/gradschool/scholars)
