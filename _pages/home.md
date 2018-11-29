@@ -30,13 +30,10 @@ We are a neuroscience lab at the [Stowers Institute for Medical Research](https:
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/navigator.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/vno.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/patch_clamp.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/patch_clamp.png" alt="Slide 4" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/olfactory_system.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/olfactory_system.png" alt="Slide " />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
