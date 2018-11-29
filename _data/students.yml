@@ -1,16 +1,17 @@
-- name: Wenjing Xu
-  photo: wenjing_xu.jpg
-  info: PhD student, Open University
-  email: wxu@stowers.org
-  number_educ: 1
-  education1: 
-
 - name: Rishabh Raj
   photo: rishabh_raj.jpg
   info: PhD student, Open University
   email: rraj@stowers.org
   number_educ: 1
   education1: B.Tech. Biological Science and Bioengineering, Indian Institute of Technology, Kanpur, India
+  
+- name: Wenjing Xu
+  photo: wenjing_xu.jpg
+  info: PhD student, Open University
+  email: wxu@stowers.org
+  number_educ: 1
+  education1: B.Sc. Biology, Wuhan University, China
+
 
 - name: Kyle Duyck
   photo: kyle_duyck.jpg
