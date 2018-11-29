@@ -1,232 +1,261 @@
-- title: "Definition of design guidelines, construction and performance of an ultra-stable scanning tunneling microscope for spectroscopic imaging"
-  image: Pub_BCl.png
-  description: Using our new noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
-  authors: I Battisti, G Verdoes, K van Oosten, KM Bastiaans, and MP Allan
+- title: "A Population of Navigator Neurons Is Essential for Olfactory Map Formation during the Critical Period"
+  description: The mammalian vomeronasal organ encodes pheromone information about gender, reproductive status, genetic background and individual differences. It remains unknown how pheromone information interacts to trigger innate behaviors. In this study, we identify vomeronasal receptors responsible for detecting female pheromones. A sub-group of V1re clade members recognizes gender-identifying cues in female urine. Multiple members of the V1rj clade are cognate receptors for urinary estrus signals, as well as for sulfated estrogen (SE) compounds. In both cases, the same cue activates multiple homologous receptors, suggesting redundancy in encoding female pheromone cues. Neither gender-specific cues nor SEs alone are sufficient to promote courtship behavior in male mice, whereas robust courtship behavior can be induced when the two cues are applied together. Thus, integrated action of different female cues is required in pheromone-triggered mating behavior. These results suggest a gating mechanism in the vomeronasal circuit in promoting specific innate behavior.
+  authors: Wu, Yunming, Limei Ma, Kyle Duyck, Carter C. Long, Andrea Moran, Hayley Scheerer, Jillian Blanck, et al.
   link:
-    url: https://arxiv.org/pdf/1810.09727.pdf
-    display:  arXiv:1810.09727
-  highlight: 0
-  news2:
-
-- title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
-  image: Pub_BCl.png
-  description: Using our new noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
-  authors: KM Bastiaans*, D Cho*, T Benschop, I Battisti, Y Huang, MS Golden, Q Dong, Y Jin, J Zaanen, MP Allan
-  link:
-    url: https://www.nature.com/articles/s41567-018-0300-z
-    display:  Nature Physics
-  highlight: 1
-  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news </a> by Erik Arends, <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>
-
-- title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
-  image: Fano.png
-  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: KM Bastiaans, T Benschop, D Chatzopoulos, D Cho, Q Dong, Y Jin, MP Allan
-  link:
-    url: https://aip.scitation.org/doi/10.1063/1.5043267
-    display:  Rev. Sci. Instrum. 89, 093709 (2018)
+    url: https://doi.org/10.1016/j.neuron.2018.09.051
+    display:  Neuron (2018)
   highlight: 1
   news2:
 
-- title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
-  image: SmartPub.png
-  description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
-  authors: M Leeuwenhoek,  RA Norte, KM Bastiaans, Doohee Cho, I Battisti, YaM Blanter, S Gröblacher, MP Allan
+- title: A Developmental Switch of Axon Targeting in the Continuously Regenerating Mouse Olfactory System
+  description: The mammalian olfactory system has the natural capacity to regenerate throughout the animal's life span. Despite constant neurogenesis, olfactory sensory neurons project to precise, stereotypical positions in the brain. Here, we identify a critical period of olfactory sensory axon targeting during postnatal development in mouse. Perturbing axon projection beyond postnatal day 7 permanently disrupts targeting specificity of the sensory neurons. In addition, we find that the establishment of the convergence map requires perinatal sensory neurons. Late-born neurons appear to connect with prospective glomeruli based on homotypic interactions among neurons expressing the same odorant receptor. Our results reveal a developmental switch in axon guidance and a mechanism of circuit integration of adult-born neurons.
+  authors: Ma, Limei, Yunming Wu, Qiang Qiu, Hayley Scheerer, Andrea Moran, and C. Ron Yu
   link:
-    url: https://arxiv.org/abs/1712.08620
-    display:  arxiv:1712.08620 (2017)
+    url: https://doi.org/10.1126/science.1248805
+    display: Science 344, no. 6180 (2014); 194–97
   highlight: 1
   news2:
 
-- title: "Revisiting quasiparticle scattering interference in high-temperature superconductors: the problem of narrow peaks"
-  image: dummy.png
+- title: Automated Analyses of Innate Olfactory Behaviors in Rodents
+  description: Olfaction based behavioral experiments are important for the investigation of sensory coding, perception, decision making and memory formation. The predominant experimental paradigms employ forced choice operant assays, which require associative learning and reinforced training. Animal performance in these assays not only reflects odor perception but also the confidence in decision making and memory. In this study, we describe a versatile and automated setup, "Poking-Registered Olfactory Behavior Evaluation System" (PROBES), which can be adapted to perform multiple olfactory assays. In addition to forced choice assays, we employ this system to examine animal's innate ability for odor detection, discrimination and preference without elaborate training procedures. These assays provide quantitative measurements of odor discrimination and robust readouts of odor preference. Using PROBES, we find odor detection thresholds are at lower concentrations in naïve animals than those determined by forced choice assays. PROBES-based automated assays provide an efficient way of analyzing innate odor-triggered behaviors.
+  authors: Qiu, Qiang, Aaron Scott, Hayley Scheerer, Nirjal Sapkota, Daniel K. Lee, Limei Ma, and C. Ron Yu
+  link:
+    url: https://doi.org/10.1371/journal.pone.0093468
+    display: PloS One 9, no. 4 (2014); e93468
+  highlight: 1
+  news2:
+
+- title: Activity-Dependent Modulation of Odorant Receptor Gene Expression in the Mouse Olfactory Epithelium
+  description: Activity plays critical roles in development and maintenance of the olfactory system, which undergoes considerable neurogenesis throughout life. In the mouse olfactory epithelium, each olfactory sensory neuron (OSN) stably expresses a single odorant receptor (OR) type out of a repertoire of ∼1200 and the OSNs with the same OR identity are distributed within one of the few broadly-defined zones. However, it remains elusive whether and how activity modulates such OR expression patterns. Here we addressed this question by investigating OR gene expression via in situ hybridization when sensory experience or neuronal excitability is manipulated. We first examined the expression patterns of fifteen OR genes in mice which underwent neonatal, unilateral naris closure. After four-week occlusion, the cell density in the closed (sensory-deprived) side was significantly lower (for four ORs), similar (for three ORs), or significantly higher (for eight ORs) as compared to that in the open (over-stimulated) side, suggesting that sensory inputs have differential effects on OSNs expressing different OR genes. We next examined the expression patterns of seven OR genes in transgenic mice in which mature OSNs had reduced neuronal excitability. Neuronal silencing led to a significant reduction in the cell density for most OR genes tested and thinner olfactory epithelium with an increased density of apoptotic cells. These results suggest that sensory experience plays important roles in shaping OR gene expression patterns and the neuronal activity is critical for survival of OSNs.
+  authors: Qiu, Qiang, Aaron Scott, Hayley Scheerer, Nirjal Sapkota, Daniel K. Lee, Limei Ma, and C. Ron Yu
+  link:
+    url: https://doi.org/10.1371/journal.pone.0069862
+    display: PLOS ONE 8, no. 7 (2013); e69862
+  highlight: 1
+  news2:
+  
+- title: "Integrated action of pheromone signals in promoting courtship behavior in male mice"
+  description: The mammalian vomeronasal organ encodes pheromone information about gender, reproductive status, genetic background and individual differences. It remains unknown how pheromone information interacts to trigger innate behaviors. In this study, we identify vomeronasal receptors responsible for detecting female pheromones. A sub-group of V1re clade members recognizes gender-identifying cues in female urine. Multiple members of the V1rj clade are cognate receptors for urinary estrus signals, as well as for sulfated estrogen (SE) compounds. In both cases, the same cue activates multiple homologous receptors, suggesting redundancy in encoding female pheromone cues. Neither gender-specific cues nor SEs alone are sufficient to promote courtship behavior in male mice, whereas robust courtship behavior can be induced when the two cues are applied together. Thus, integrated action of different female cues is required in pheromone-triggered mating behavior. These results suggest a gating mechanism in the vomeronasal circuit in promoting specific innate behavior.
+  authors: Haga-Yamanaka, Sachiko, Limei Ma, Jie He, Qiang Qiu, Luke D. Lavis, Loren L. Looger, and C. Ron Yu
+  link:
+    url: https://doi.org/10.7554/eLife.03025
+    display:  ELife 3 (2014); e03025
+  highlight: 1
+  news2:
+
+- title: Agonist-Independent GPCR Activity Regulates Anterior-Posterior Targeting of Olfactory Sensory Neurons
+  description: G-protein-coupled receptors (GPCRs) are known to possess two different conformations, active and inactive, and they spontaneously alternate between the two in the absence of ligands. Here, we analyzed the agonist-independent GPCR activity for its possible role in receptor-instructed axonal projection. We generated transgenic mice expressing activity mutants of the b2-adrenergic receptor, a well-characterized GPCR with the highest homology to odorant receptors (ORs). We found that mutants with altered agonist-independent activity changed the transcription levels of axon-targeting molecules—e.g., Neuropilin-1 and Plexin-A1—but not of glomerular segregation molecules—e.g., Kirrel2 and Kirrel3—thus causing shifts in glomerular locations along the anterior-posterior (A-P) axis. Knockout and in vitro experiments demonstrated that Gs, but not Golf, is responsible for mediating the agonistindependent GPCR activity. We conclude that the equilibrium of conformational transitions set by each OR is the major determinant of expression levels of A-P-targeting molecules.
+  authors: Nakashima, Ai, Haruki Takeuchi, Takeshi Imai, Harumi Saito, Hiroshi Kiyonari, Takaya Abe, Min Chen, et al.
+  link:
+    url: https://doi.org/10.1016/j.cell.2013.08.033
+    display: Cell 154, no. 6 (2013); 1314–25
+  highlight: 1
+  news2:
+
+- title: Calcium Imaging of Vomeronasal Organ Response Using Slice Preparations from Transgenic Mice Expressing G-CaMP2
+  description: The vomeronasal organ (VNO) in vertebrate animals detects pheromones and interspecies chemical signals. We describe in this chapter a Ca(2+) imaging approach using transgenic mice that express the genetically encoded Ca(2+) sensor G-CaMP2 in VNO tissue. This approach allows us to analyze the complex patterns of the vomeronasal neuron response to large number of chemosensory stimuli.
+  authors: Yu, C. Ron
+  link:
+    url: https://doi.org/10.1007/978-1-62703-619-1_15
+    display: Methods in Molecular Biology 1068 (2013); 211–20
+  highlight: 1
+  news2:
+
+- title: Distributed Representation of Chemical Features and Tunotopic Organization of Glomeruli in the Mouse Olfactory Bulb
+  description: In the mammalian brain, similar features of the sensory stimuli are often represented in proximity in the sensory areas. However, how chemical features are represented in the olfactory bulb has been controversial. Questions have been raised as to whether specific chemical features of the odor molecules are represented by spatially clustered olfactory glomeruli. Using a sensitive probe, we have analyzed the glomerular response to large numbers of odorants at single glomerulus resolution. Contrary to the general view, we find that the representation of chemical features is spatially distributed in the olfactory bulb with no discernible chemotopy. Moreover, odor-evoked pattern of activity does not correlate directly with odor structure in general. Despite the lack of spatial clustering or preference with respect to chemical features, some structurally related odors can be similarly represented by ensembles of spatially distributed glomeruli, providing an explanation of their perceptual similarity. Whereas there is no chemotopic organization, and the glomeruli are tuned to odors from multiple classes, we find that the glomeruli are hierarchically arranged into clusters according to their odor-tuning similarity. This tunotopic arrangement provides a framework to understand the spatial organization of the glomeruli that conforms to the organizational principle found in other sensory systems.
+  authors: Ma, Limei, Qiang Qiu, Stephen Gradwohl, Aaron Scott, Elden Q. Yu, Richard Alexander, Winfried Wiegraebe, and C. Ron Yu
+  link:
+    url: https://doi.org/10.1073/pnas.1117491109
+    display: Proc. Natl. Acad. Sci. U.S.A. no. 109 (2012); 5481-5486
+  highlight: 1
+  news2:
+
+- title: Paradoxical Contribution of SK3 and GIRK Channels to the Activation of Mouse Vomeronasal Organ
+  description: The vomeronasal organ (VNO) is essential for intraspecies communication in many terrestrial vertebrates. The ionic mechanisms of VNO activation remain unclear. We found that the calcium-activated potassium channel SK3 and the G protein-activated potassium channel GIRK are part of an independent pathway for VNO activation. In slice preparations, the potassium channels attenuated inward currents carried by TRPC2 and calcium-activated chloride channels (CACCs). In intact tissue preparations, paradoxically, the potassium channels enhanced urine-evoked inward currents. This discrepancy resulted from the loss of a high concentration of lumenal potassium, which enabled the influx of potassium ions to depolarize the VNO neurons in vivo. Both Sk3 (also known as Kcnn3) and Girk1 (also known as Kcnj3) homozygous null mice showed deficits in mating and aggressive behaviors, and the deficiencies in Sk3(-/-) mice were exacerbated by Trpc2 knockout. Our results suggest that VNO activation is mediated by TRPC2, CACCs and two potassium channels, all of which contributed to the in vivo depolarization of VNO neurons.
+  authors: Kim, SangSeong, Limei Ma, Kristi L. Jensen, Michelle M. Kim, Chris T. Bond, John P. Adelman, and C. Ron Yu
+  link:
+    url: https://doi.org/10.1038/nn.3173
+    display: Nature Neuroscience 15, no. 9 (2012); 1236–44
+  highlight: 1
+  news2:
+
+- title: Imaging Neuronal Responses in Slice Preparations of Vomeronasal Organ Expressing a Genetically Encoded Calcium Sensor
+  description: The vomeronasal organ (VNO) detects intraspecies chemical signals that convey social and reproductive information. We have performed Ca2+ imaging experiments using transgenic mice expressing G-CaMP2 in VNO tissue. This approach allows us to analyze the complicated response patterns of the vomeronasal neurons to large numbers of pheromone stimuli.
+  authors: Ma, Limei, Sachiko Haga-Yamanaka, Qingfeng Elden Yu, Qiang Qiu, SangSeong Kim, and C. Ron Yu
+  link:
+    url: https://doi.org/10.3791/3404
+    display: JoVE (Journal of Visualized Experiments), no. 58 (2011); e3404
+  highlight: 1
+  news2:
+
+- title: Requirement of Calcium-Activated Chloride Channels in the Activation of Mouse Vomeronasal Neurons
+  description: In terrestrial vertebrates, the vomeronasal organ (VNO) detects and transduces pheromone signals. VNO activation is thought to be mediated by the transient receptor potential C2 (TRPC2) channel. The aberrant behavioural phenotypes observed in TRPC2-/- mice are generally attributed to the lost VNO function. Recently, calcium-activated chloride channels have been shown to contribute to VNO activation. Here we show that CACCs can be activated in VNO slice preparations from the TRPC2-/- mice and this activation is blocked by pharmacological agents that inhibit intracellular Ca(2+) release. Urine-evoked Cl(-) current is sufficient to drive spiking changes in VNO neurons from both wild-type (WT) and TRPC2-/- mice. Moreover, blocking Cl(-) conductance essentially abolishes VNO activation in WT neurons. These results suggest a TRPC2-independent signalling pathway in the VNO and the requirement of calcium-activated chloride channels currents to mediate pheromone activation. Our data further suggest that TRPC2-/- mice retain partial VNO function.
+  authors: Kim, SangSeong, Limei Ma, and C. Ron Yu
+  link:
+    url: https://doi.org/10.1038/ncomms1368
+    display: Nature Communications 2 (2011); 365
+  highlight: 1
+  news2:
+
+- title: "Distinct Signals Conveyed by Pheromone Concentrations to the Mouse Vomeronasal Organ"
+  description: In mammalian species, detection of pheromone cues by the vomeronasal organ (VNO) at different concentrations can elicit distinct behavioral responses and endocrine changes. It is not well understood how concentration-dependent activation of the VNO impacts innate behaviors. In this study, we find that, when mice investigate the urogenital areas of a conspecific animal, the urinary pheromones can reach the VNO at a concentration of ∼1% of that in urine. At this level, urinary pheromones elicit responses from a subset of cells that are tuned to sex-specific cues and provide unambiguous identification of the sex and strain of animals. In contrast, low concentrations of urine do not activate these cells. Strikingly, we find a population of neurons that is only activated by low concentrations of urine. The properties of these neurons are not found in neurons responding to putative single-compound pheromones. Additional analyses show that these neurons are masked by high-concentration pheromones. Thus, an antagonistic interaction in natural pheromones results in the activation of distinct populations of cells at different concentrations. The differential activation is likely to trigger different downstream circuitry and underlies the concentration-dependent pheromone perception.
+  authors: He, Jie, Limei Ma, Sangseong Kim, Joel Schwartz, Michael Santilli, Christopher Wood, Michael H. Durnin, and C. Ron Yu
+  link:
+    url: https://doi.org/10.1523/JNEUROSCI.0825-10.2010
+    display: Journal of Neuroscience 30, no. 22 (2010); 7473–83
+  highlight: 1
+  news2:
+
+- title: "Encoding Gender and Individual Information in the Mouse Vomeronasal Organ"
+  description: The mammalian vomeronasal organ detects complex chemical signals that convey information about gender, strain, and the social and reproductive status of an individual. How these signals are encoded is poorly understood. We developed transgenic mice expressing the calcium indicator G-CaMP2 and analyzed population responses of vomeronasal neurons to urine from individual animals. A substantial portion of cells was activated by either male or female urine, but only a small population of cells responded exclusively to gender-specific cues shared across strains and individuals. Female cues activated more cells and were subject to more complex hormonal regulations than male cues. In contrast to gender, strain and individual information was encoded by the combinatorial activation of neurons such that urine from different individuals activated distinctive cell populations. Mice can recognize the pheromones from individual mice through unique patterns of receptor activation in the vomeronasal organ. Mice can recognize the pheromones from individual mice through unique patterns of receptor activation in the vomeronasal organ.
+  authors: He, Jie, Limei Ma, SangSeong Kim, Junichi Nakai, and C. Ron Yu
+  link:
+    url: https://doi.org/10.1126/science.1154476
+    display:  Science 320, no. 5875 (2008); 535–38
+  highlight: 1
+  news2:
+
+- title: Altered Sexual and Social Behaviors in Trp2 Mutant Mice
+  description: We have used gene targeting to generate mice with a homozygous deficiency in trp2, a cation channel expressed in the vomeronasal organ (VNO). Trp2 mutant animals reveal a striking reduction in the electrophysiological response to pheromones in the VNO, suggesting that trp2 plays a central role in mediating the pheromone response. These mutants therefore afford the opportunity to examine the role of the VNO in the generation of innate sexual and social behaviors in mice. Trp2 mutant males and nursing females are docile and fail to initiate aggressive attacks on intruder males. Male-female sexual behavior appears normal, but trp2 mutant males also vigorously mount other males. These results suggest that the cation channel trp2 is required in the VNO to detect male-specific pheromones that elicit aggressive behaviors and dictate the choice of sexual partners.
+  authors: Leypold, Bradley G., C. Ron Yu, Trese Leinders-Zufall, Michelle M. Kim, Frank Zufall, and Richard Axel
+  link:
+    url: https://doi.org/10.1073/pnas.082127599
+    display: Proc. Natl. Acad. Sci. U.S.A. 99, no. 9 (2002); 6376–81
+  highlight: 1
+  news2:
+
+#####
+# non-highlighted, those produced in the Yu Lab only
+#####
+
+- title: A Family of GFP-like Proteins with Different Spectral Properties in Lancelet Branchiostoma Floridae
   description: ""
-  authors: MA Sulangi, MP Allan, J Zaanen
+  authors: Baumann, Diana, Malcolm Cook, Limei Ma, Arcady Mushegian, Erik Sanders, Joel Schwartz, and C. Ron Yu
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.134507
-    display:  PRB 96, 134507 (2017)
+    url: https://doi.org/10.1186/1745-6150-3-28
+    display: Biology Direct 3 (2008); 28
   highlight: 0
-  news2: Coverd in Superconductor Week, November 30, 2017 Vol. 31, No. 10
 
-- title: Robust procedure for creating and characterizing the atomic structure of scanning tunneling microscope tips
-  image: dummy.png
+- title: Encoding Gender and Individual Information in the Mouse Vomeronasal Organ
   description: ""
-  authors: S Tewari, KM Bastiaans, MP Allan, JM van Ruitenbeek
+  authors: He, Jie, Limei Ma, Sangseong Kim, Junichi Nakai, and C. Ron Yu
   link:
-    url: http://www.beilstein-journals.org/bjnano/content/pdf/2190-4286-8-238.pdf
-    display:  Beilstein J. Nanotechnol. 8, 2389 (2017)
+    url: https://doi.org/10.1126/science.1154476
+    display: Science 320, no. 5875 (2008); 535–38
   highlight: 0
-  news2:
 
-- title: Creating better superconductors by periodic nanopatterning
-  image: SCAUweb.jpg
-  description:
-    We  propose  an approach to transform a ‘pristine’ material into a better (meta-) superconductor by making use of modern fabrication techniques -- designing and engineering the electronic properties of thin films via periodic patterning on the nanoscale.
-  authors:
-    MP Allan, MH Fischer, O Ostojic, A Andringa
-  link:
-    url: https://scipost.org/SciPostPhys.3.2.010/pdf
-    display: SciPost Phys. 3, 010 (2017)
-  highlight: 1
-
-- title: Poor electronic screening in lightly doped Mott insulators observed with scanning tunneling microscopy
-  image: TIBB.png
-  description:
-    We develop a simple model to interpret STM results on lightly doped Mott insulators, and find that the effective Mott gap measured by STM correspons to the one measured with other techniques when taking into account the poor electronic screeing.
-  authors:
-    I Battisti, V Fedoseev, KM Bastiaans, A de la Torre, RS Perry, F Baumberger, MP Allan
-  link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.235141
-    display: Phys. Rev. B 95, 235141, Editors' suggestion (2017)
-  highlight: 1
-
-- title: Universality of pseudo gap and emergent order in lightly doped Mott insulators
-  image: Mott_phase_sep.jpg
-  description:
-    We discover of electronic order, pseudo gap phase separation and an impurity-band Mott transition in an iridate compound, cuprate-style. Along the way, we gained unique knowledge on how a Mott state collapses.
-  authors:
-    I. Battisti* & K.M. Bastiaans*, V. Fedoseev, A. de la Torre, N. Iliopoulos, A. Tamai, E.C. Hunter, R.S. Perry, J. Zaanen, F. Baumberger, M.P. Allan
-  link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3894.html
-    display: Nature Physics 13, 21 (2017)
-  highlight: 1
-  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2016/09/melting-of-frozen-electrons-visualized"> Leiden University news </a> by Erik Arends, <a href="http://phys.org/news/2016-09-frozen-electrons-visualized.html"> Phys.org </a>
-
-- title: Identifying the fingerprint of antiferromagnetic spin fluctuations in iron pnictide superconductors
-  image: Pub_FP.png
-  description:
-    Both the density of states and the QPI dispersion of LiFeAs shows signatures of electron-boson coupling. Comparing these with fingerprints of different boson couplings to conclude that these signatures stem from AF spin fluctuations.
-  authors:
-    MP Allan* & Kyungmin Lee* & AW Rost*, MH Fischer, F Massee, K Kihou, C-H Lee, A Iyo, H Eisaki, T-M Chuang, AP Mackenzie, JC Davis, DJ Scalapino, E-A Kim
-  link:
-    url: http://www.nature.com/nphys/journal/v11/n2/full/nphys3187.html
-    display: Nature Physics 11, 177 (2015)
-  highlight: 1
-  news1:
-  news2: See also <a href="http://www.news.cornell.edu/stories/2015/01/high-temperature-superconductor-fingerprint-found"> Cornell Chronicle </a> by Anne Ju, <a href="http://phys.org/news/2015-01-high-temperature-superconductor-fingerprint.html"> Phys.org </a>
-
-- title: Direct evidence for a magnetic f-electron mediated Cooper pairing mechanism of heavy fermion superconductivity in CeCoIn5
-  image: dummy.png
+- title: Distinct Signals Conveyed by Pheromone Concentrations to the Mouse Vomeronasal Organ
   description: ""
-  authors:
-    J Van Dyke, F Massee, MP Allan, JC Davis, C Petrovic, and DK Morr
+  authors: He, Jie, Limei Ma, Sangseong Kim, Joel Schwartz, Michael Santilli, Christopher Wood, Michael H. Durnin, and C. Ron Yu
   link:
-    url: http://www.pnas.org/content/111/32/11663
-    display: PNAS 111, 11663 (2014)
+    url: https://doi.org/10.1523/JNEUROSCI.0825-10.2010
+    display: Journal of Neuroscience 30, no. 22 (2010); 7473–83.
   highlight: 0
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a>
-  news2:
 
-- title: Imaging Cooper pairing of heavy fermions in CeCoIn5
-  image: Pub_CeCoIn5.png
-  description:
-    The heavy Fermion superconductor CeCoIn5 has a d-wave gap with nodes along the (1,1) direction, as we find using QPI.
-  authors:
-    MP Allan* & F Massee*, DK Morr, J van Dyke, AW Rost, AP Mackenzie, C Petrovic, JC Davis
-  link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/abs/nphys2671.html
-    display: Nature Physics 9, 468 (2013)
-  highlight: 1
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://www.nature.com/nphys/journal/v9/n8/full/nphys2708.html">Featured in 'News and Views' by L Taillefer</a>
-  news2: See also <a href="http://phys.org/news/2013-07-imaging-electron-pairing-simple-magnetic.html"> Phys.org</a>, <a href="http://davisgroup.lassp.cornell.edu/CeCoIn5_DoE.html">DoE headliner</a>
-
-- title: Formation of heavy d-electron quasiparticles in Sr3Ru2O7
-  image: Pub_327.png
-  description:
-    Using APRES, we find that the bands in Sr3Ru2O7 look more like in heavy fermion material than in a normal metal. We present a detailed investigation into the formation of this particular electronic  structure.
-  authors:
-    MP Allan, A Tamai, E Rozbicki, MH Fischer, J Voss, PDC King, W Meevasana, S Thirupathaiah, E Rienks, J Fink, A Tennant, RS Perry, JF Mercure, MA Wang, J Lee, CJ Fennie, E-A Kim, MJ Lawler, KM Shen, AP Mackenzie, Z-X Shen, F Baumberger
-  link:
-    url: http://iopscience.iop.org/1367-2630/15/6/063029
-    display: New Journal of Physics 15, 063029 (2013)
-  highlight: 1
-  news: <a style="color:#FF0000; text-decoration:underline" href="http://iopscience.iop.org/1367-2630/15/6/063029"> Video abstract available</a>
-
-- title: Anisotropic impurity states, quasiparticle scattering and nematic transport in underdoped Ca(Fe1−xCox)2As2
-  image: Pub_nemat2b.png
-  description:
-    We elucidate on the formation of the electronic nematic state in Co-CaFe2As2, finding that the Cobalt dopant atoms play a key role.
-  authors:
-    MP Allan, T-M Chuang, F Massee, Y Xie, N Ni, SL Bud’ko, GS Boebinger, Q Wang, DS Dessau, PC Canfield, MS Golden, JC Davis
-  highlight: 1
-  link:
-    url: http://www.nature.com/nphys/journal/v9/n4/full/nphys2544.html
-    display: Nature Physics 9, 220 (2013)
-  news2: See also <a href="http://www.techconnect.org/news/entry.html?id=243"> Tech Connect </a> by Jennifer Rocha, <a href="http://phys.org/news/2013-02-iron-based-superconductor-advances-theory.html"> Phys.org</a> by Bill Steele
-
-- title: Anisotropic energy gaps of iron-based superconductivity from intraband quasiparticle interference in LiFeAs
-  image: Pub_LiFeAs.png
-  description:
-    In contrast to earlier photoemission reports, we show that the gaps in iron based superconductors are not isotropic but modulated with angle.
-  authors:
-    MP Allan⋆ & AW Rost⋆, AP Mackenzie, Y Xie, JC Davis, K Kihou, CH Lee, A Iyo, H Eisaki, T-M Chuang
-  link:
-    url: http://www.sciencemag.org/content/336/6081/563
-    display: Science 336, 563 (2012)
-  highlight: 1
-  news2: See also <a href="http://www.news.cornell.edu/stories/2012/05/new-clues-how-iron-superconductors-work"> Cornell Cornincle </a> by Bill Steele, <a href="http://www.eurekalert.org/pub_releases/2012-05/dnl-avo050312.php"> Eureka Alert </a>
-
-- title: How Kondo-holes create intense nanoscale heavy-fermion hybridization disorder
-  image: dummy.png
+- title: Requirement of Calcium-Activated Chloride Channels in the Activation of Mouse Vomeronasal Neurons
   description: ""
-  authors: MH Hamidian, AR Schmidt, IA Firmo, MP Allan, P Bradley, JD Garrett, TJ Williams, GM Luke, Y Dubi, AV Balatsky, JC Davis
+  authors: Kim, SangSeong, Limei Ma, and C. Ron Yu
   link:
-    url: http://www.pnas.org/content/108/45/18233
-    display:  PNAS 108, 18233 (2011)
-  highlight: 0
-  news2:
-
-- title: Nematic electronic structure in the “parent” state of the iron-based superconductor Ca(Fe1−xCox)2As2
-  image: Pub_nemat1.png
-  description:
-    We discovered an electronic nematic in the iron based superconductor Co-CaFe2As2! This state is by now confirmed and quite well characterized  by transport, photoemission, and more SI-STM experiments.
-  authors:
-    T-M Chuang* & MP Allan*, J Lee, Y Xie, N Ni, SL Bud’ko, GS Boebinger PC Canfield, JC Davis
-  link:
-    url: http://www.sciencemag.org/content/327/5962/181
-    display: Science 327, 181 (2010)
-  highlight: 1
-  news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a>
-  news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
-
-- title: Heavy d-electron quasiparticle interference and real-space electronic structure of Sr3Ru2O7
-  image: Pub_hBN.png
-  description:
-    QPI in Sr327.
-  authors: Jinho Lee* & M. P. Allan*, M. A.Wang, J. Farrell, S. A. Grigera, F. Baumberger, J. C. Davis and A. P. Mackenzie
-  link:
-    url: https://www.nature.com/nphys/journal/v5/n11/full/nphys1397.html
-    display: Nature Physics 5, 800 (2009)
+    url: https://doi.org/10.1038/ncomms1368
+    display: Nature Communications 2 (2011); 365
   highlight: 0
 
-- title: Fermi surface and van Hove singularities in the itinerant metamagnet Sr3Ru2O7
-  image: Pub_hBN.png
-  description:
-    We determine the Fermi surface of Sr327.
-  authors:
-    A Tamai, MP Allan, JF Mercure, W Meevasana, R Dunkel, DH Lu, RS Perry, AP Mackenzie, David J Singh, Z-X Shen, F Baumberger
-  link:
-    url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.026407
-    display: Phys. Rev. Lett. 101, 026407 (2008)
-  highlight: 0
-
-- title: Tunable  self-assembly of one-dimensional nanostructures with orthogonal directions
-  image: Pub_hBN.png
-  description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
-  authors:
-    MP Allan, S Berner, M Corso, T Greber, J Osterwalder
-  link:
-    url: http://www.nanoscalereslett.com/content/2/2/94
-    display: Nanoscale Research Letters 2, 94 (2007)
-  highlight: 1
-
-- title: Photoelectron Diffraction for a Look inside Nanostructures
-  image: dummy.png
+- title: Imaging Neuronal Responses in Slice Preparations of Vomeronasal Organ Expressing a Genetically Encoded Calcium Sensor
   description: ""
-  authors:
-    J Osterwalder, A Tamai, W Auwärter; MP Allan, T Greber
+  authors: Ma, Limei, Sachiko Haga-Yamanaka, Qingfeng Elden Yu, Qiang Qiu, Sangseong Kim, and C. Ron Yu
   link:
-    url: hhttp://www.ingentaconnect.com/content/scs/chimia/2006/00000060/00000011/art00013
-    display: CHIMIA 11, 759 (2006)
+    url: JoVE (Journal of Visualized Experiments), no. 58 (2011); e3404
+    display: https://doi.org/10.3791/3404
   highlight: 0
+
+- title: Distributed Representation of Chemical Features and Tunotopic Organization of Glomeruli in the Mouse Olfactory Bulb
+  description: ""
+  authors: Ma, Limei, Qiang Qiu, Stephen Gradwohl, Aaron Scott, Elden Q. Yu, Richard Alexander, Winfried Wiegraebe, and C. Ron Yu
+  link:
+    url: https://doi.org/10.1073/pnas.1117491109
+    display: Proc. Natl. Acad. Sci. U.S.A. no. 109 (2012); 5481-5486
+  highlight: 0
+
+- title: Paradoxical Contribution of SK3 and GIRK Channels to the Activation of Mouse Vomeronasal Organ
+  description: ""
+  authors: Kim, SangSeong, Limei Ma, Kristi L. Jensen, Michelle M. Kim, Chris T. Bond, John P. Adelman, and C. Ron Yu
+  link:
+    url: https://doi.org/10.1038/nn.3173
+    display: Nature Neuroscience 15, no. 9 (2012); 1236–44
+  highlight: 0
+
+- title: Calcium Imaging of Vomeronasal Organ Response Using Slice Preparations from Transgenic Mice Expressing G-CaMP2
+  description: ""
+  authors: Yu, C. Ron
+  link:
+    url: https://doi.org/10.1007/978-1-62703-619-1_15
+    display: Methods in Molecular Biology 1068 (2013); 211–20
+  highlight: 0
+
+- title: A Developmental Switch of Axon Targeting in the Continuously Regenerating Mouse Olfactory System
+  description: ""
+  authors: Ma, Limei, Yunming Wu, Qiang Qiu, Hayley Scheerer, Andrea Moran, and C. Ron Yu
+  link:
+    url: https://doi.org/10.1126/science.1248805
+    display: Science 344, no. 6180 (2014); 194–97
+  highlight: 0
+
+- title: Automated Analyses of Innate Olfactory Behaviors in Rodents
+  description: ""
+  authors: Qiu, Qiang, Aaron Scott, Hayley Scheerer, Nirjal Sapkota, Daniel K. Lee, Limei Ma, and C. Ron Yu
+  link:
+    url: https://doi.org/10.1371/journal.pone.0093468
+    display: PloS One 9, no. 4 (2014); e93468
+  highlight: 0
+
+- title: Integrated Action of Pheromone Signals in Promoting Courtship Behavior in Male Mice
+  description: ""
+  authors: Haga-Yamanaka, Sachiko, Limei Ma, Jie He, Qiang Qiu, Luke D. Lavis, Loren L. Looger, and C. Ron Yu
+  link:
+    url: https://doi.org/10.7554/eLife.03025
+    display: ELife 3 (2014); e03025
+  highlight: 0
+
+- title: Intracellular Chloride Concentration of the Mouse Vomeronasal Neuron
+  description: ""
+  authors: Kim, SangSeong, Limei Ma, Jay Unruh, Sean McKinney, and C. Ron Yu
+  link:
+    url: https://doi.org/10.1186/s12868-015-0230-y
+    display: MC Neuroscience 16 (2015); 90
+  highlight: 0
+
+- title: Tuning Properties and Dynamic Range of Type 1 Vomeronasal Receptors
+  description: ""
+  authors: Haga-Yamanaka, Sachiko, Limei Ma, and C. Ron Yu
+  link:
+    url: https://doi.org/10.3389/fnins.2015.00244
+    display: Frontiers in Neuroscience 9 (2015); 244
+  highlight: 0
+
+- title: TRICK or TRP? What Trpc2(-/-) Mice Tell Us about Vomeronasal Organ Mediated Innate Behaviors
+  description: ""
+  authors: Yu, C. Ron
+  link:
+    url: https://doi.org/10.3389/fnins.2015.00221
+    display: Frontiers in Neuroscience 9 (2015); 221
+  highlight: 0
+
+- title: Pronounced Strain-Specific Chemosensory Receptor Gene Expression in the Mouse Vomeronasal Organ
+  description: ""
+  authors: Duyck, Kyle, Vasha DuTell, Limei Ma, Ariel Paulson, and C. Ron Yu
+  link:
+    url: https://doi.org/10.1186/s12864-017-4364-4
+    display: BMC Genomics 18, no. 1 (2017); 965
+  highlight: 0
+  
+- title: "A Population of Navigator Neurons Is Essential for Olfactory Map Formation during the Critical Period"
+  authors: Wu, Yunming, Limei Ma, Kyle Duyck, Carter C. Long, Andrea Moran, Hayley Scheerer, Jillian Blanck, et al.
+  link:
+    url: https://doi.org/10.1016/j.neuron.2018.09.051
+    display:  Neuron (2018)
+  highlight: 0
+  
+  
+  
+  
+  

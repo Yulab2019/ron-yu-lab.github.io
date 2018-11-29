@@ -8,8 +8,7 @@
 # Site settings
 title: The Yu Lab
 email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-We are a neuroscience lab at the Stowers Institute for Medical Research. Our aim is to explore and understand sensory systems and the processing of sensory information in the brain. Some specific effrots include investigation of processing of pheromone information, neural development, sensory coding, and innate behavior circuity.
+description: We are a neuroscience lab at the Stowers Institute for Medical Research. Our aim is to explore and understand sensory systems and the processing of sensory information in the brain. Some specific effrots include investigation of processing of pheromone information, neural development, sensory coding, and innate behavior circuity.
 baseurl: ""
 url: ""
 
