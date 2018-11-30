@@ -140,7 +140,7 @@ Jump to [staff](#staff), [masters and interns](#masters-and-interns), [alumni](#
 </div>
 {% endif %}
 
-## Interns
+## Graduate Researchers
 {% assign number_printed = 0 %}
 {% for member in site.data.interns %}
 
