@@ -8,10 +8,7 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for a new postdoc and a laboratory assistant to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
-
-Jump to [staff](#staff), [masters and interns](#masters-and-interns), [alumni](#alumni), [administrative support](#administrative-support).
+ **We are  looking for a new postdoc and a laboratory assistant to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies)**!**
 
 ## Staff
 {% assign number_printed = 0 %}
@@ -140,7 +137,7 @@ Jump to [staff](#staff), [masters and interns](#masters-and-interns), [alumni](#
 </div>
 {% endif %}
 
-## Graduate Researchers
+## Graduate researchers
 {% assign number_printed = 0 %}
 {% for member in site.data.interns %}
 
