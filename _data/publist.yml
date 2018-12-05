@@ -2,10 +2,10 @@
   description: The mammalian vomeronasal organ encodes pheromone information about gender, reproductive status, genetic background and individual differences. It remains unknown how pheromone information interacts to trigger innate behaviors. In this study, we identify vomeronasal receptors responsible for detecting female pheromones. A sub-group of V1re clade members recognizes gender-identifying cues in female urine. Multiple members of the V1rj clade are cognate receptors for urinary estrus signals, as well as for sulfated estrogen (SE) compounds. In both cases, the same cue activates multiple homologous receptors, suggesting redundancy in encoding female pheromone cues. Neither gender-specific cues nor SEs alone are sufficient to promote courtship behavior in male mice, whereas robust courtship behavior can be induced when the two cues are applied together. Thus, integrated action of different female cues is required in pheromone-triggered mating behavior. These results suggest a gating mechanism in the vomeronasal circuit in promoting specific innate behavior.
   authors: Wu, Yunming, Limei Ma, Kyle Duyck, Carter C. Long, Andrea Moran, Hayley Scheerer, Jillian Blanck, et al.
   link:
-    url: https://doi.org/10.1016/j.neuron.2018.09.051
+    url: https://authors.elsevier.com/a/1YAfb3BtfGpRwt
     display:  Neuron (2018)
   highlight: 1
-  news2:
+  news2: Read the article for free at the link above through January 29, 2019
 
 - title: A Developmental Switch of Axon Targeting in the Continuously Regenerating Mouse Olfactory System
   description: The mammalian olfactory system has the natural capacity to regenerate throughout the animal's life span. Despite constant neurogenesis, olfactory sensory neurons project to precise, stereotypical positions in the brain. Here, we identify a critical period of olfactory sensory axon targeting during postnatal development in mouse. Perturbing axon projection beyond postnatal day 7 permanently disrupts targeting specificity of the sensory neurons. In addition, we find that the establishment of the convergence map requires perinatal sensory neurons. Late-born neurons appear to connect with prospective glomeruli based on homotypic interactions among neurons expressing the same odorant receptor. Our results reveal a developmental switch in axon guidance and a mechanism of circuit integration of adult-born neurons.
@@ -24,15 +24,6 @@
     display: PloS One 9, no. 4 (2014); e93468
   highlight: 1
   news2:
-
-- title: Activity-Dependent Modulation of Odorant Receptor Gene Expression in the Mouse Olfactory Epithelium
-  description: Activity plays critical roles in development and maintenance of the olfactory system, which undergoes considerable neurogenesis throughout life. In the mouse olfactory epithelium, each olfactory sensory neuron (OSN) stably expresses a single odorant receptor (OR) type out of a repertoire of ∼1200 and the OSNs with the same OR identity are distributed within one of the few broadly-defined zones. However, it remains elusive whether and how activity modulates such OR expression patterns. Here we addressed this question by investigating OR gene expression via in situ hybridization when sensory experience or neuronal excitability is manipulated. We first examined the expression patterns of fifteen OR genes in mice which underwent neonatal, unilateral naris closure. After four-week occlusion, the cell density in the closed (sensory-deprived) side was significantly lower (for four ORs), similar (for three ORs), or significantly higher (for eight ORs) as compared to that in the open (over-stimulated) side, suggesting that sensory inputs have differential effects on OSNs expressing different OR genes. We next examined the expression patterns of seven OR genes in transgenic mice in which mature OSNs had reduced neuronal excitability. Neuronal silencing led to a significant reduction in the cell density for most OR genes tested and thinner olfactory epithelium with an increased density of apoptotic cells. These results suggest that sensory experience plays important roles in shaping OR gene expression patterns and the neuronal activity is critical for survival of OSNs.
-  authors: Zhao, Shaohua, Huikai Tian, Limei Ma, Ying Yuan, C. Ron Yu, and Minghong Ma
-  link:
-    url: https://doi.org/10.1371/journal.pone.0069862
-    display: PLOS ONE 8, no. 7 (2013); e69862
-  highlight: 1
-  news2:
   
 - title: "Integrated action of pheromone signals in promoting courtship behavior in male mice"
   description: The mammalian vomeronasal organ encodes pheromone information about gender, reproductive status, genetic background and individual differences. It remains unknown how pheromone information interacts to trigger innate behaviors. In this study, we identify vomeronasal receptors responsible for detecting female pheromones. A sub-group of V1re clade members recognizes gender-identifying cues in female urine. Multiple members of the V1rj clade are cognate receptors for urinary estrus signals, as well as for sulfated estrogen (SE) compounds. In both cases, the same cue activates multiple homologous receptors, suggesting redundancy in encoding female pheromone cues. Neither gender-specific cues nor SEs alone are sufficient to promote courtship behavior in male mice, whereas robust courtship behavior can be induced when the two cues are applied together. Thus, integrated action of different female cues is required in pheromone-triggered mating behavior. These results suggest a gating mechanism in the vomeronasal circuit in promoting specific innate behavior.
@@ -40,15 +31,6 @@
   link:
     url: https://doi.org/10.7554/eLife.03025
     display:  ELife 3 (2014); e03025
-  highlight: 1
-  news2:
-
-- title: Agonist-Independent GPCR Activity Regulates Anterior-Posterior Targeting of Olfactory Sensory Neurons
-  description: G-protein-coupled receptors (GPCRs) are known to possess two different conformations, active and inactive, and they spontaneously alternate between the two in the absence of ligands. Here, we analyzed the agonist-independent GPCR activity for its possible role in receptor-instructed axonal projection. We generated transgenic mice expressing activity mutants of the b2-adrenergic receptor, a well-characterized GPCR with the highest homology to odorant receptors (ORs). We found that mutants with altered agonist-independent activity changed the transcription levels of axon-targeting molecules—e.g., Neuropilin-1 and Plexin-A1—but not of glomerular segregation molecules—e.g., Kirrel2 and Kirrel3—thus causing shifts in glomerular locations along the anterior-posterior (A-P) axis. Knockout and in vitro experiments demonstrated that Gs, but not Golf, is responsible for mediating the agonistindependent GPCR activity. We conclude that the equilibrium of conformational transitions set by each OR is the major determinant of expression levels of A-P-targeting molecules.
-  authors: Nakashima, Ai, Haruki Takeuchi, Takeshi Imai, Harumi Saito, Hiroshi Kiyonari, Takaya Abe, Min Chen, et al.
-  link:
-    url: https://doi.org/10.1016/j.cell.2013.08.033
-    display: Cell 154, no. 6 (2013); 1314–25
   highlight: 1
   news2:
 
@@ -115,14 +97,6 @@
   highlight: 1
   news2:
 
-- title: Altered Sexual and Social Behaviors in Trp2 Mutant Mice
-  description: We have used gene targeting to generate mice with a homozygous deficiency in trp2, a cation channel expressed in the vomeronasal organ (VNO). Trp2 mutant animals reveal a striking reduction in the electrophysiological response to pheromones in the VNO, suggesting that trp2 plays a central role in mediating the pheromone response. These mutants therefore afford the opportunity to examine the role of the VNO in the generation of innate sexual and social behaviors in mice. Trp2 mutant males and nursing females are docile and fail to initiate aggressive attacks on intruder males. Male-female sexual behavior appears normal, but trp2 mutant males also vigorously mount other males. These results suggest that the cation channel trp2 is required in the VNO to detect male-specific pheromones that elicit aggressive behaviors and dictate the choice of sexual partners.
-  authors: Leypold, Bradley G., C. Ron Yu, Trese Leinders-Zufall, Michelle M. Kim, Frank Zufall, and Richard Axel
-  link:
-    url: https://doi.org/10.1073/pnas.082127599
-    display: Proc. Natl. Acad. Sci. U.S.A. 99, no. 9 (2002); 6376–81
-  highlight: 1
-  news2:
 
 #####
 # non-highlighted, those produced in the Yu Lab only

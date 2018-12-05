@@ -10,7 +10,6 @@ permalink: /team/
 
  **We are  looking for a new postdoc and a laboratory assistant to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies)**!**
 
-## Staff
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -49,7 +48,8 @@ permalink: /team/
   {% endif %}
 
   {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
+  <li> {{ member.education1 }} </li>jekyll
+  
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
@@ -380,10 +380,7 @@ permalink: /team/
     <td>2009 – Stowers Scholar: Megan Fracol & Andrew Satterlee, Lingxue Zhang & Katharina Grauel </td>
   </tr>
   <tr>
-    <td>2010 – Lingxue Zhang & Xinyun Peng, Internship</td>
-  </tr>
-  <tr>
-    <td>2010 – Stowers Scholar: Megan Fracol, Andrew Satterlee, & Roman Becicka, Shan Shen & Tao Wang</td>
+    <td>2010 – Stowers Scholar: Megan Fracol, Andrew Satterlee, & Roman Becicka, Shan Shen & Tao Wang,; Interns: Lingxue Zhang & Xinyun Peng</td>
   </tr>
   <tr>
     <td>2011 – Stowers Scholar: Colleen McLaughlin, Vivekanandan Ramalingam, Amurta Nath, Wanlu Liu, Yilin Li, Yunming Wu & Martula Kolodziejczek </td>
@@ -394,12 +391,6 @@ permalink: /team/
   <tr>
     <td>2013 – Stowers Scholars: Rishabh Raj, Zita Hubler, Laura Nay and Florian Bilz</td>
   </tr>
-</table>
-
-<table align="center" style="width:100%">
-  <tr>
-    <th>Interns</th>
-  </tr>
   <tr>
     <td>2014 – Stowers Scholar: Sruti Raja, Wenjing Xu</td>
   </tr>

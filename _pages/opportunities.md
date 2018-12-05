@@ -1,9 +1,9 @@
 ---
-title: "Yu Lab - Vacancies"
+title: "Yu Lab - Opportunities"
 layout: textlay
-excerpt: "Openings"
+excerpt: "Opportunities"
 sitemap: false
-permalink: /vacancies
+permalink: /opportunities
 ---
 
 # Open positions
