@@ -14,18 +14,6 @@ Join the Yu Lab at Stowers Institute for Medical Research!
 
 ### Current open positions
 
-#### Laboratory Assistant
-
-The Stowers Institute for Medical Research has an opening for a Laboratory Assistant in the Yu Lab. The chosen candidate will assist the lab with organization, basic laboratory techniques, and performing other assigned tasks. Qualified candidates will participate in research projects assisting graduate students, postdoctoral research and senior scientists in performing experiments. The position offers the opportunity to participate in one or more of the following types of studies: molecular and cell biology, histology, data analyses, and/or developmental biology. 
-
-The successful candidate will be self-motivated; have excellent written and verbal communication skills; and the ability to effectively work in a team-oriented and multicultural environment.
-
-Minimum requirements include a high school diploma and some college coursework. The candidate should have a general science background with emphasis on chemistry, life science and other related sciences, or have a computer programming background. Candidates currently pursuing or have graduated with their degree in a science-related discipline are encouraged to apply.
-
-*Application Instructions:* To apply, please submit a current resume and 2 letters of professional reference to careers@stowers.org or to Administration Department, Stowers Institute for Medical Research, 1000 E 50th Street, Kansas City, MO 64110.
-
----
-
 #### Postdoctoral Research Associate
 *Developmental Neurobiology and Neural Circuit Studies*
 
@@ -38,6 +26,18 @@ Minimum requirements include a doctoral degree in the life sciences, chemistry, 
 In addition to excellent verbal and written communication skills, successful candidates must be highly motivated, work independently and creatively, committed to a scientific career, ability to work in a team-oriented environment, and proficient at problem solving.
 
 *Application Instructions:* To apply, please submit (1) a brief cover letter, (2) a current CV, and (3) 2 letters of professional reference to Dr. Ron Yu at yulab@stowers.org cc: careers@stowers.org.
+
+---
+
+#### Laboratory Assistant
+
+The Stowers Institute for Medical Research has an opening for a Laboratory Assistant in the Yu Lab. The chosen candidate will assist the lab with organization, basic laboratory techniques, and performing other assigned tasks. Qualified candidates will participate in research projects assisting graduate students, postdoctoral research and senior scientists in performing experiments. The position offers the opportunity to participate in one or more of the following types of studies: molecular and cell biology, histology, data analyses, and/or developmental biology. 
+
+The successful candidate will be self-motivated; have excellent written and verbal communication skills; and the ability to effectively work in a team-oriented and multicultural environment.
+
+Minimum requirements include a high school diploma and some college coursework. The candidate should have a general science background with emphasis on chemistry, life science and other related sciences, or have a computer programming background. Candidates currently pursuing or have graduated with their degree in a science-related discipline are encouraged to apply.
+
+*Application Instructions:* To apply, please submit a current resume and 2 letters of professional reference to careers@stowers.org or to Administration Department, Stowers Institute for Medical Research, 1000 E 50th Street, Kansas City, MO 64110.
 
 ---
 
