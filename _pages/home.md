@@ -23,7 +23,7 @@ We are a neuroscience lab at the [Stowers Institute for Medical Research](https:
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/ywu_1.png" alt="Slide 0" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/ywu_4.png" alt="Slide 0" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/ywu_2.png" alt="Slide 1" />
@@ -32,7 +32,7 @@ We are a neuroscience lab at the [Stowers Institute for Medical Research](https:
             <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/ywu_3.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/ywu_4.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/ywu_1.png" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/ywu_5.png" alt="Slide 4" />
