@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for a new postdoc and a laboratory assistant to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies)**!**
+ **We are  looking for a new postdoc and a laboratory assistant to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/opportunities)**!**
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -298,7 +298,7 @@ permalink: /team/
 
 <table align="center" style="width:100%">
  <tr>
-    <th>Postdoctoral Research Associate </th>
+    <th>Postdoctoral Research Associates</th>
     <th>Research Technicians</th>
     <th>Graduate Researchers</th>
   </tr>
@@ -348,13 +348,18 @@ permalink: /team/
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>Ming Ma, 2013–2014</td>
     <td>Daniel Lee, 2011–2013</td>
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>Churljong Kim, 2015-2016</td>
     <td>Daniel Friedman, 2014–2015</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Hetan Chang 2017-2018</td>
+    <td></td>
     <td></td>
   </tr>
 

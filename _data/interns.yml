@@ -1,16 +1,8 @@
   
 - name: Peter Schwarz
   photo: peter_schwarz.jpg
-  info: Microscopist
+  info: Graduate researcher
   email: pschwarz@stowers.org
   number_educ: 2
-  education1: B.Sc. University of Portland
-  education2: M.Sc. Applied Physics University of Oregon
-
-- name: Kohl Kinning
-  photo: kohl_kinning.jpg
-  info: M.Sc. intern, Bioinformatics and Genomics
-  email: kkinning@stowers.org
-  number_educ: 2
-  education1: B.A. Biology Lewis and Clark College
-  education2: M.Sc. Biology University of Oregon
+  education1: B.Sc. Physics, University of Portland
+  education2: M.Sc. Applied Physics, University of Oregon
