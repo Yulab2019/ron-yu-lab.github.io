@@ -50,7 +50,7 @@ Each person has a little YAML chunk that looks like:
 
 This can be edited and saved through the Github user interface and the changes will be automatically applied to the site. There are different files for different categories of lab members. The text above can be found in `_data/team_members.yml`. You'll see different categories like *PhD Students*, *Graduate Researchers*, and so on. The image for each person should be added to `images/teampic` and should be referenced as in the example above.
 
-![]({{ site.url }}{{ site.baseurl }}/images/tutorialpic/editing_team_members.png){: style="width: 30%; float: center; border: 10px"}
+![](/images/tutorialpic/editing_team_members.png)
 
 # Adding alumni
 
@@ -63,4 +63,5 @@ This is a two step procedure:
 1. Upload the image with the Github user interface. Navigate to the correct folder and click `Upload files` in the top right corner.
 2. Depending on where you will be using the image, update the the intended location of the image with the path
   + if it's going to be associated with any thing in the `_data` folder, just provide the filename e.g. `kohl_kinning.jpg`
-  + if it's on a page in the _pages folder you have to place this Markdown/HTML blend where you want the image `![]({{ site.url }}{{ site.baseurl }}/images/foldername/filename.png){: style="width: 30%; float: center; border: 10px"}`.
+  + if it's on a page in the _pages folder you have to place this Markdown/HTML blend where you want the image `![]({{ site.url }}{{ site.baseurl }}/images/foldername/filename.png){: style="width: 30%; float: center; border: 10px"}`
+  + if it's abreast a news item, place this after the text (on the same line) `<img src='/images/newspic/sfn_2018.jpg' class='img-responsive' style='max-width: 192px' />"`
