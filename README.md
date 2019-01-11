@@ -30,7 +30,7 @@ Here you'll modify the job postings in `opportunities.md` the research direction
 
 ## images folder
 
-All of the images live in this folder. When you want to include an image in a post or alongside a team_member tile you'll be able to proved the path to where the image resides. The folder structure is for organization only. If you want to change the name of an existing folder you'll have to be thorough with updating the paths referencing the original path, so it'll be easiest to leave them as they are and to follow the exisitng scheme.
+All of the images live in this folder. When you want to include an image in a post or alongside a team_member tile you'll be able to proved the path to where the image resides. The folder structure is for organization only. If you want to change the name of an existing folder you'll have to be thorough with updating the paths referencing the original path, so it'll be easiest to leave them as they are and to follow the existing scheme.
 
 # Specific tasks
 
@@ -54,7 +54,9 @@ This can be edited and saved through the Github user interface and the changes w
 
 # Adding alumni
 
-This part is not optimal and editing raw HTML is necessary.
+This part is not optimal and editing raw HTML is necessary. At line 299 is where the alumni section begins. For each `<tr></tr>` chunk, there is an entry for Postdoctoral Research Associates, Research Technicians, and Graduate Researchers. So Jie He was a Postdoctoral Research Associate, Evan Gillespie was a Research Technician, and Vasha DuTell was a Graduate Researcher. This will be changed soon so that you can just add a name to a `.yml` file under `_data` and this section will be updated.
+
+![](/images/tutorialpic/editing_alumni.png)
 
 # Adding pictures
 
