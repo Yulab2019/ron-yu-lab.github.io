@@ -67,3 +67,7 @@ This is a two step procedure:
   + if it's going to be associated with any thing in the `_data` folder, just provide the filename e.g. `kohl_kinning.jpg`
   + if it's on a page in the _pages folder you have to place this Markdown/HTML blend where you want the image `![]({{ site.url }}{{ site.baseurl }}/images/foldername/filename.png){: style="width: 30%; float: center; border: 10px"}`
   + if it's abreast a news item, place this after the text (on the same line) `<img src='/images/newspic/sfn_2018.jpg' class='img-responsive' style='max-width: 192px' />"`
+  
+ # Adding a News item to the homepage
+ 
+Navigate to `_data/new.yml` and follow the formatting of the other items. Add the newest item to the top of the list. YAML is very picky about syntax (whitespace, colons, etc) so be mindful of using the scaffolding of the other news entries. This section would ideally be be replaced by a Twitter widget.
