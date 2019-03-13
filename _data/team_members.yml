@@ -23,7 +23,7 @@
   email: qiq@stowers.org
   number_educ: 2
   education1: B.Sc. Biochemistry, Beijing Normal University, Beijing, China
-  education2: Ph.D. Biophysics, Institute of Biophysics Chinese Academy of Sciences, Beijing, China
+  education2: Ph.D. Biophysics, Institute of Biophysics, Chinese Academy of Sciences, Beijing, China
   
 - name: Yunming Wu
   photo: yunming_wu.jpg
@@ -32,6 +32,14 @@
   number_educ: 2
   education1: B.Sc. Biology, Wuhan University, China 
   education2: Ph.D. Biology, Open University, England
+  
+- name: Ai Fang
+  photo: ai_fang.jpg
+  info: Postdoctoral Research Associate
+  email: afang@stowers.org
+  number_educ: 2
+  education1: B.Eng. Bioinformatics, Huazhong University of Science and Technology, Wuhan, China
+  education2: Ph.D. Neuroscience, Institute of Biophysics, Chinese Academy of Science, Beijing, China
   
 - name: Michael Hirte
   photo: michael_hirte.jpg
