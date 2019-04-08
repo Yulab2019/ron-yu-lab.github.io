@@ -1,13 +1,13 @@
 - name: Rishabh Raj
   photo: rishabh_raj.jpg
-  info: PhD student, Open University
+  info: Predoctoral Researcher, Open University
   email: rraj@stowers.org
   number_educ: 1
   education1: B.Tech. Biological Science and Bioengineering, Indian Institute of Technology, Kanpur, India
   
 - name: Wenjing Xu
   photo: wenjing_xu.jpg
-  info: PhD student, Open University
+  info: Predoctoral Researcher, Open University
   email: wxu@stowers.org
   number_educ: 1
   education1: B.Sc. Biology, Wuhan University, China
@@ -15,7 +15,7 @@
 
 - name: Kyle Duyck
   photo: kyle_duyck.jpg
-  info: PhD student, Open University
+  info: Predoctoral Researcher, Open University
   email: kduyck@stowers.org
   number_educ: 2
   education1: B.Sc. Biochemistry and Biophysics, Oregon State University, Corvallis
@@ -24,7 +24,7 @@
 
 - name: Rahul Garg
   photo: rahul_garg.jpg
-  info: PhD student, Stowers Graduate School
+  info: Predoctoral Researcher, Stowers Graduate School
   email: rgarg@stowers.org
   number_educ: 1
   education1: B.Tech. Biological Science and Bioengineering, Indian Institute of Technology, Kanpur, India

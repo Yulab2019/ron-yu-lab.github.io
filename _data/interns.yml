@@ -1,8 +1,7 @@
-  
-- name: Peter Schwarz
-  photo: peter_schwarz.jpg
+- name: Max Hills
+  photo: max_hills.jpg
   info: Graduate researcher
-  email: pschwarz@stowers.org
+  email: mhills@stowers.org
   number_educ: 2
-  education1: B.Sc. Physics, University of Portland
-  education2: M.Sc. Applied Physics, University of Oregon
+  education1: B.Sc. Biology, University of Oregon
+  education2: M.Sc. Biology, University of Oregon

@@ -199,10 +199,10 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Visiting fellows
+## Administrative Support
 
 {% assign number_printed = 0 %}
-{% for member in site.data.fellows %}
+{% for member in site.data.admin %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -412,7 +412,3 @@ permalink: /team/
     <td>2018 – Stowers Scholar:	Kevin Li, Sandon Scott, Edwin Qiu, Yiyang “Reus” Zhu; Paris VII intern: Clarisse Dumont</td>
   </tr>
 </table>
-
-
-## Administrative Support
-<a href="mailto:iwarren@stowers.org">Indigo Warren</a> is helping us (and other groups) with administration.

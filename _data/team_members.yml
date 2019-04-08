@@ -57,6 +57,14 @@
   education1: B.Sc. Cellular & Molecular Biology, Humboldt State University
   education2: M.Sc. Biology, University of Oregon
   
+- name: Peter Schwarz
+  photo: peter_schwarz.jpg
+  info: Research assistant
+  email: pschwarz@stowers.org
+  number_educ: 2
+  education1: B.Sc. Physics, University of Portland
+  education2: M.Sc. Applied Physics, University of Oregon
+  
 - name: Kohl Kinning
   photo: kohl_kinning.jpg
   info: Bioinformaticist
